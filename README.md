@@ -25,7 +25,7 @@ from numpy import where
 
 from collections import Counter 
 
-from sklearn.datasets import 
+from sklearn.datasets import make_blobs
 
 from matplotlib import pyplot 
 
