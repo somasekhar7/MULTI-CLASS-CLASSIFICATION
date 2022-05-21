@@ -14,6 +14,7 @@
   3.	Assign the counter value using the Counter function
   4.	Using a for loop, plot the points using scatter function
 ## Program:
+```
 /* 
 Program to implement the multi class classifier. 
 
@@ -21,7 +22,8 @@ Developed by: DARISI VENKATA VEERA SOMASEKHAR
 
 Register Number: 212219040024
 */ 
-
+```
+```
 from numpy import where
 
 from collections import Counter 
@@ -51,6 +53,7 @@ for label,_ in counter.items():
 pyplot.legend()
 
 pyplot.show() 
+```
 
 ## Output:
 
